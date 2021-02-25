@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Personal</title>
+    <title>Personal Resume</title>
     <link>https://george-zqq.github.io/</link>
-    <description>Recent content on Personal</description>
+    <description>Recent content on Personal Resume</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://george-zqq.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
